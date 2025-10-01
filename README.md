@@ -87,8 +87,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed-rahil/ahmed-rahil/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmed-rahil/ahmed-rahil/output/github-contribution-grid-snake.svg">
-    <img alt="snake contribution grid" src="https://raw.githubusercontent.com/ahmed-rahil/ahmed-rahil/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-Rahil/Ahmed-Rahil/main/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-Rahil/Ahmed-Rahil/main/output/github-contribution-grid-snake.svg">
+    <img alt="snake contribution grid" src="C:\Users\Arsalaan Ahmed\OneDrive\Desktop\Ahmed-Rahil\output\github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
