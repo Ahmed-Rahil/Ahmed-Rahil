@@ -10,9 +10,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # This block is the fix: It gives the action write permissions to your repository
+    permissions:
+      contents: write
+      
     steps:
       # Checks out the repository so the action can see it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       # Generates the snake SVG
       - uses: Platane/snk@v3
