@@ -92,3 +92,7 @@
     <img alt="snake contribution grid" src="C:\Users\Arsalaan Ahmed\OneDrive\Desktop\Ahmed-Rahil\output\github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Rahil&color=blue&style=flat-square&label=Profile%20Views" alt="Profile Views" title="Profile Views" />
+</p>
